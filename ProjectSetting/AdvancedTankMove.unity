@@ -182,6 +182,11 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1636771632}
   m_SourcePrefab: {fileID: 100100000, guid: 2e9e573aa0c146543a3999cb38bda60c, type: 3}
+--- !u!1 &1001407613 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8656466468712816066, guid: 2e9e573aa0c146543a3999cb38bda60c, type: 3}
+  m_PrefabInstance: {fileID: 18042179}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1096672258
 GameObject:
   m_ObjectHideFlags: 0
@@ -397,7 +402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ef4792987a9e54489bd6ff0254aa22a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turretPrefab: {fileID: 0}
+  turretPrefab: {fileID: 1001407613}
 --- !u!1 &1935752279
 GameObject:
   m_ObjectHideFlags: 0
